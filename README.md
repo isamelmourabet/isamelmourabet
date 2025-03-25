@@ -1,16 +1,21 @@
-## Hi there 👋
+# 👋 ¡Hola! Soy Isam El Mourabet
 
-<!--
-**isamelmourabet/isamelmourabet** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 🚀 Acerca de mí
+Soy un desarrollador apasionado con experiencia en múltiples lenguajes y tecnologías. Me encanta crear soluciones eficientes, escribir código limpio y aprender constantemente sobre nuevas tendencias en desarrollo de software.
 
-Here are some ideas to get you started:
+## 🛠️ Tecnologías y Herramientas
+- 🔹 Swift, Java, Python, C, C++, Haskell
+- 🌐 HTML, CSS
+- 🏗️ Arquitectura de Software y Algoritmos
+- ⚡ Optimización y Mejores Prácticas
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 📌 Proyectos Destacados
+🔹 **[Nombre del Proyecto 1](#)** - Breve descripción del proyecto y lo que logra.  
+🔹 **[Nombre del Proyecto 2](#)** - Otro gran proyecto en el que he trabajado.
+
+## 📫 Contacto
+💼 [LinkedIn](#) | 📧 [Email](#) | 🌐 [Portafolio](#)
+
+---
+💡 _"El código es como el humor. Cuando tienes que explicarlo, es malo." - Cory House_
+
