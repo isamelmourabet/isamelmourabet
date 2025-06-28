@@ -1,21 +1,23 @@
 # 👋 ¡Hola! Soy Isam El Mourabet
 
-## 🚀 Acerca de mí
-Soy un desarrollador apasionado con experiencia en múltiples lenguajes y tecnologías. Me encanta crear soluciones eficientes, escribir código limpio y aprender constantemente sobre nuevas tendencias en desarrollo de software.
+## 🚀 Acerca de mí  
+Soy un desarrollador apasionado con experiencia en múltiples lenguajes y tecnologías, incluyendo desarrollo de software y sistemas embebidos. Me encanta crear soluciones eficientes, escribir código limpio y aprender constantemente sobre nuevas tendencias en tecnología y desarrollo.
 
-## 🛠️ Tecnologías y Herramientas
-- 🔹 Swift, Java, Python, C, C++, Haskell
-- 🌐 HTML, CSS
-- 🏗️ Arquitectura de Software y Algoritmos
-- ⚡ Optimización y Mejores Prácticas
+## 🛠️ Tecnologías y Herramientas  
+- 🔹 Swift, Java, Python, C, C++, Haskell  
+- 🛠️ **VHDL y diseño digital**  
+- 🌐 HTML, CSS, Angular, React, JavaScript  
+- 🏗️ Arquitectura de Software, Algoritmos y Optimización  
+- ⚡ Desarrollo y programación de **sistemas embebidos** (microcontroladores, ESP32, firmware)  
+- 🔧 Control y comunicación con hardware: Bluetooth Low Energy (BLE), MQTT, protocolos seriales  
 
-## 📌 Proyectos Destacados
-🔹 **[Nombre del Proyecto 1](#)** - Breve descripción del proyecto y lo que logra.  
-🔹 **[Nombre del Proyecto 2](#)** - Otro gran proyecto en el que he trabajado.
+## 📌 Proyectos Destacados  
+🔹 **[Nombre del Proyecto 1](#)** – Breve descripción del proyecto y lo que logra.  
+🔹 **[Nombre del Proyecto 2](#)** – Otro gran proyecto en el que he trabajado, incluyendo desarrollo embebido y diseño digital.  
 
-## 📫 Contacto
+## 📫 Contacto  
 💼 [LinkedIn](#) | 📧 [Email](#) | 🌐 [Portafolio](#)
 
 ---
-💡 _"El código es como el humor. Cuando tienes que explicarlo, es malo." - Cory House_
 
+💡 _"El código es como el humor. Cuando tienes que explicarlo, es malo." - Cory House_
