@@ -16,7 +16,7 @@ Soy un desarrollador apasionado con experiencia en múltiples lenguajes y tecnol
 🔹 **[Nombre del Proyecto 2](#)** – Otro gran proyecto en el que he trabajado, incluyendo desarrollo embebido y diseño digital.  
 
 ## 📫 Contacto  
-💼 [LinkedIn](#) | 📧 [Email](#) | 🌐 [Portafolio](#)
+💼 [LinkedIn](#https://www.linkedin.com/in/isamelmourabet/) | 📧 [Email](#isamelmourabet@icloud.com) | 🌐 [Portafolio](#)
 
 ---
 
