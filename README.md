@@ -11,12 +11,12 @@ Soy un desarrollador apasionado con experiencia en múltiples lenguajes y tecnol
 - ⚡ Desarrollo y programación de **sistemas embebidos** (microcontroladores, ESP32, firmware)  
 - 🔧 Control y comunicación con hardware: Bluetooth Low Energy (BLE), MQTT, protocolos seriales  
 
-## 📌 Proyectos Destacados  
-<!--🔹 **[Nombre del Proyecto 1](#)** – Breve descripción del proyecto y lo que logra.  
+<!--## 📌 Proyectos Destacados  
+🔹 **[Nombre del Proyecto 1](#)** – Breve descripción del proyecto y lo que logra.  
 🔹 **[Nombre del Proyecto 2](#)** – Otro gran proyecto en el que he trabajado, incluyendo desarrollo embebido y diseño digital.-->  
 
 ## 📫 Contacto  
-💼 [LinkedIn](https://www.linkedin.com/in/isamelmourabet/) | 📧 [Email](mailto:isamelmourabet@icloud.com) | 🌐 [Portafolio](#)
+💼 [LinkedIn](https://www.linkedin.com/in/isamelmourabet/) | 📧 [Email](mailto:isamelmourabet@icloud.com) <!--| 🌐 [Portafolio](#)-->
 
 ---
 
