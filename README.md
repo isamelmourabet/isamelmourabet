@@ -5,7 +5,7 @@ Soy un desarrollador apasionado con experiencia en múltiples lenguajes y tecnol
 
 ## 🛠️ Tecnologías y Herramientas  
 - 🔹 Swift, Java, Python, C, C++, Haskell  
-- 🛠️ **VHDL y diseño digital**  
+- 🛠️ VHDL y diseño digital  
 - 🌐 HTML, CSS, Angular, React, JavaScript  
 - 🏗️ Arquitectura de Software, Algoritmos y Optimización  
 - ⚡ Desarrollo y programación de **sistemas embebidos** (microcontroladores, ESP32, firmware)  
