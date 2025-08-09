@@ -8,8 +8,8 @@ Soy un desarrollador apasionado con experiencia en múltiples lenguajes y tecnol
 - 🛠️ VHDL y diseño digital  
 - 🌐 HTML, CSS, Angular, React, JavaScript  
 - 🏗️ Arquitectura de Software, Algoritmos y Optimización  
-- ⚡ Desarrollo y programación de **sistemas embebidos** (microcontroladores, ESP32, firmware)  
-- 🔧 Control y comunicación con hardware: Bluetooth Low Energy (BLE), MQTT, protocolos seriales  
+- ⚡ Desarrollo y programación de sistemas embebidos (microcontroladores, ESP32, firmware)  
+- 🔧 Control y comunicación con hardware: Bluetooth Low Energy (BLE), MQTT, protocolos seriales (SPI, UART)  
 
 <!--## 📌 Proyectos Destacados  
 🔹 **[Nombre del Proyecto 1](#)** – Breve descripción del proyecto y lo que logra.  
