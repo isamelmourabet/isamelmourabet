@@ -9,7 +9,14 @@ Soy un desarrollador apasionado con experiencia en múltiples lenguajes y tecnol
 - 🌐 HTML, CSS, Angular, React, JavaScript  
 - 🏗️ Arquitectura de Software, Algoritmos y Optimización  
 - ⚡ Desarrollo y programación de sistemas embebidos (microcontroladores, ESP32, firmware)  
-- 🔧 Control y comunicación con hardware: Bluetooth Low Energy (BLE), MQTT, protocolos seriales (SPI, UART)  
+- 🔧 Control y comunicación con hardware: Bluetooth Low Energy (BLE), MQTT, protocolos seriales (SPI, UART)
+
+## 📊 GitHub Stats  
+<p align="center">
+  <img height="150" src="https://github-readme-stats.vercel.app/api?username=CristianInBits&theme=react&show_icons=true&include_all_commits=true" />
+  <img height="150" src="https://github-readme-stats.vercel.app/api/top-langs/?username=CristianInBits&layout=compact&theme=react&hide_border=true" />
+</p>
+
 
 <!--## 📌 Proyectos Destacados  
 🔹 **[Nombre del Proyecto 1](#)** – Breve descripción del proyecto y lo que logra.  
