@@ -28,3 +28,5 @@ Soy un desarrollador apasionado con experiencia en múltiples lenguajes y tecnol
 ---
 
 💡 _"El código es como el humor. Cuando tienes que explicarlo, es malo." - Cory House_
+
+---
